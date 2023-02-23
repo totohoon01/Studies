@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fire2
-  m_Shader: {fileID: 4800000, guid: 28c133771c76f409abb007ed9b4ae40e, type: 3}
+  m_Name: Vertex
+  m_Shader: {fileID: 4800000, guid: 92c562a118e4548ef8703ba3b8d66260, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -44,11 +44,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d376b63c18788447890be6e6e9f47919, type: 3}
+        m_Texture: {fileID: 2800000, guid: f24c13c6566684685bc809df616bfc85, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex2:
-        m_Texture: {fileID: 2800000, guid: c67d5c3d7188c43328e23d7e7cca0442, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0038ea937266c427fae8a1ecf572b07e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 2800000, guid: f40134dcf69b5470ebd9378b9d6d68b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex4:
+        m_Texture: {fileID: 2800000, guid: 3cde3370c21b04ad1bd171bf50b9e733, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
